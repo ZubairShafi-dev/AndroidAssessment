@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Android Assessment</string>
+
+    <!-- Breeds screen -->
+    <string name="title_breeds">Dog Breeds</string>
+    <string name="hint_search_breeds">Search breeds…</string>
+    <string name="action_retry">Retry</string>
+    <string name="label_last_updated">Last updated: %1$s</string>
+    <string name="label_sub_breeds">%1$d sub-breeds</string>
+    <string name="label_no_sub_breeds">No sub-breeds</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_expand_collapse">Expand or collapse sub-breeds</string>
+    <string name="cd_error_icon">Error icon</string>
+
+    <!-- Settings screen -->
+    <string name="title_settings">Settings</string>
+    <string name="section_build_info">Build Info</string>
+    <string name="section_runtime_status">Runtime Status</string>
+    <string name="section_logging">Logging</string>
+    <string name="label_flavor">Flavor</string>
+    <string name="label_dog_api_url">Dog API Base URL</string>
+    <string name="label_users_api_url">Users API Base URL</string>
+    <string name="label_posts_api_url">Posts API Base URL</string>
+    <string name="label_random_user_api_url">Random User API URL</string>
+    <string name="label_polling_active">Polling Active</string>
+    <string name="label_last_fetch">Last Fetch</string>
+    <string name="label_logging_compile">Logging (compile-time)</string>
+    <string name="label_logging_runtime">Logging (runtime toggle)</string>
+    <string name="label_logging_runtime_hint">Demo only — does not persist</string>
+    <string name="value_never">Never</string>
+    <string name="value_yes">Yes ✓</string>
+    <string name="value_no">No ✗</string>
+
+    <!-- Users screen -->
+    <string name="title_users">Users</string>
+    <string name="title_user_detail">User Details</string>
+    <string name="label_address">Address</string>
+    <string name="label_company">Company</string>
+
+    <!-- Posts screen -->
+    <string name="title_posts">Posts</string>
+    <string name="title_post_detail">Post Detail</string>
+
+    <!-- Random Users screen -->
+    <string name="title_random_users">Random</string>
+</resources>
