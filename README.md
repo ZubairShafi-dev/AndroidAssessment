@@ -291,3 +291,4 @@ fun stopPolling() {
 
 For a deeper dive into architecture, see `ARCHITECTURE.md`.
 <!-- commit 1 -->
+<!-- commit 2 -->
