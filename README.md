@@ -290,3 +290,4 @@ fun stopPolling() {
 - Room + Flow ensure only **changed data** triggers UI updates; no manual diffing in the ViewModel.
 
 For a deeper dive into architecture, see `ARCHITECTURE.md`.
+<!-- commit 1 -->
