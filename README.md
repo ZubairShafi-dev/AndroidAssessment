@@ -295,3 +295,4 @@ For a deeper dive into architecture, see `ARCHITECTURE.md`.
 <!-- commit 3 -->
 <!-- commit 4 -->
 <!-- commit 5 -->
+<!-- commit 6 -->
