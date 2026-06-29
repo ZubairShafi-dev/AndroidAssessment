@@ -297,3 +297,4 @@ For a deeper dive into architecture, see `ARCHITECTURE.md`.
 <!-- commit 5 -->
 <!-- commit 6 -->
 <!-- commit 7 -->
+<!-- commit 8 -->
